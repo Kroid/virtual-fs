@@ -1,0 +1,19 @@
+{
+  "name": "virtual-fs",
+  "version": "0.0.1",
+  "description": "virtual-fs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Kroid/virtual-fs.git"
+  },
+  "author": "George M Kroid <kroid@yandex.ru>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kroid/virtual-fs/issues"
+  },
+  "homepage": "https://github.com/Kroid/virtual-fs"
+}
